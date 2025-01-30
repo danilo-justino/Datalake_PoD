@@ -27,3 +27,12 @@ inadimplência e personalização de ofertas.
 - Arquitetura de Dados
 - Data Quality
 - Orquestração
+
+## Ferramentas Utilizadas
+
+- Microsoft Fabtic 
+- OneLake
+- Lakehouse
+- PySpark
+- Data Factory
+- Dataflow
