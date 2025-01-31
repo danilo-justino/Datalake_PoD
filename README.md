@@ -28,7 +28,7 @@ inadimplência e personalização de ofertas.
 - Data Quality
 - Orquestração
 
-## Ferramentas Utilizadas
+## Plataforma e Ferramentas Utilizadas
 
 - Microsoft Fabtic 
 - OneLake
