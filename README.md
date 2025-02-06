@@ -22,6 +22,7 @@ inadimplência e personalização de ofertas.
 - Desenvolver Arquitetura de dados baseada em um Data Lake
 - Realizar Book de Variáveis de Fatura
 
+
 ## Checklist do Projeto
 
 - Arquitetura de Dados
@@ -36,3 +37,8 @@ inadimplência e personalização de ofertas.
 - PySpark
 - Data Factory
 - Dataflow
+
+## Análise rápida na Liguagem SQL da Stage
+- 40% das faturas foram pagas em Atraso, sendo 21,47% tem valores entre R$ 45k a R$ 60k;
+- 30% das Faturas estão Sem pagamento, sendo que 21,50% dos valores dessas faturas é de até R$ 15k;
+- E aproximadamente 3% das faturas são pagas no Prazo, onde 22,81% dos valores pagos são de até R$ 15K.
